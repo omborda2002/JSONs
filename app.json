@@ -1,6 +1,6 @@
 {
     "app_name": "PaperTrade",
-    "package_name": "com.google.android.gms",
+    "package_name": "com.paper.trade",
     "version": "21.24.14 (120400-378233385)",
     "version_code": "202124141",
     "developer": "OS",
